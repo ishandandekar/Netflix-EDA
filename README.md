@@ -1,4 +1,4 @@
-# Walkthrough of the project :iphone:
+# Walkthrough of the project 🎬
 
 <img src="https://i.kym-cdn.com/entries/icons/mobile/000/037/334/Kowalski.jpg" width="370">
 
